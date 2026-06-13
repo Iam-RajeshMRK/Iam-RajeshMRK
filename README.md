@@ -74,16 +74,6 @@
 
 ---
 
-## 📄 My Resume
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1MQRZNTfnu9f9dcr7pyLsfgoP1EdrECR0/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download_CV_PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
-  </a>
-</p>
-
-
----
 
 ## 📬 Connect with Me
 
