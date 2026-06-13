@@ -13,7 +13,7 @@
 - 🚀 Hands-on experience with AWS, Terraform, Linux, Jenkins, Ansible, Docker, Kubernetes, Git, and ArgoCD.
 - ⚙️ Proficient in building scalable infrastructure and automating CI/CD pipelines.
 - 🌱 Continuously learning and exploring the latest in cloud-native technologies and Infrastructure as Code.
-- 🤝 Actively seeking opportunities in DevOps, Cloud & SRE engineering.
+- 🤝 Actively seeking opportunities in Cloud & Devops Engineering.
 
 ---
 
