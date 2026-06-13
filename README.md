@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm RajeshKumar</h1>
+<h1 align="center">Hi there 👋 I'm Rajesh Kumar Mothukuri</h1>
 <h3 align="center">DevOps & Cloud Engineer</h3>
 
 <p align="center">
@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/rajeshkumar273">
+  <a href="https://github.com/Iam-Rajesh-MRK">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
